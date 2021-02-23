@@ -1,0 +1,10 @@
+.signUp {
+  display: flex;
+  width: 50%; }
+  .signUp input {
+    padding: 10px;
+    margin: 10px; }
+  .signUp #btn {
+    background-color: midnightblue;
+    border: none;
+    color: whitesmoke; }

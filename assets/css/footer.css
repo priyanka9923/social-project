@@ -1,0 +1,10 @@
+.bottom {
+  display: flex;
+  background-color: lightgray;
+  height: 100%;
+  width: 100%;
+  padding: 3px; }
+  .bottom .pages-link {
+    display: flex; }
+    .bottom .pages-link #footer-link {
+      display: inline-flex; }

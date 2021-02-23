@@ -1,4 +1,7 @@
-body{
-    margin: 0;
-    text-align: center;
-}
+body {
+  margin: 0;
+  width: 100%; }
+  body #layout-main {
+    height: 31.5rem;
+    padding: 10px;
+    background-color: #cbbff7; }

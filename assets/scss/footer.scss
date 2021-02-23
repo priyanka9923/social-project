@@ -1,0 +1,13 @@
+.bottom{
+    display: flex;
+    background-color: lightgray;
+    height: 100%;
+    width: 100%;
+    padding: 3px;
+   .pages-link{
+        display: flex;
+        #footer-link{
+            display: inline-flex;    
+       }
+    }
+}

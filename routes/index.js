@@ -5,6 +5,10 @@ const homeController =require('../controllers/home_controller');
 console.log('router added');
 router.get('/',homeController.home);
 router.use('/users',require('./users'));
-router.use('/userpost',require('./userpost'));
+router.use('/posts',require('./posts'));
+router.use('/comments',require('./comments'));
+router.use('/api',require('./api'));
+
+
 
 module.exports = router;
